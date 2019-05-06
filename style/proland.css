@@ -61,7 +61,7 @@ header {
   justify-content: space-around;
   align-items: center;
   background-color: #eee;
-  @media (max-width: 600px) {
+  @media (max-width: 750px) {
     flex-wrap: wrap;
   }
 }
@@ -171,7 +171,7 @@ nav {
     width: 25px;
     color: darkorange;
 
-    @media (max-width: 50px) {
+    @media (max-width: 650px) {
       display: none;
     }
   }
